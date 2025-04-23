@@ -18,5 +18,8 @@ Web developer, creative designer, and AI enthusiast with expertise in modern fra
 - Fiverr: [stanislavmnikov](https://www.fiverr.com/stanislavmnikov)
 - YouTube: [@StanislavNikov](https://youtube.com/@StanislavNikov)
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+## GitHub Stats
+![Stanislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislavNikov&show_icons=true&theme=dark)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavNikov&layout=compact&theme=dark)
